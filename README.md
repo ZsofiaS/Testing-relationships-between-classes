@@ -1,5 +1,9 @@
 # Testing Relationships Between Classes
 
+## What it is about
+This was an exercise during Week 2 at Makers to help learn mocking and isolate unit tests.
+It helped me understand why use doubles in unit tests, and how to use them.
+
 ## Quickstart
 
 Clone, then:
@@ -24,3 +28,4 @@ Do:
 
 * Use `double` — [Reference docs here](https://relishapp.com/rspec/rspec-mocks/v/3-5/docs/basics/test-doubles)
 * Use `expect(...).to receive(...)` [Reference docs here](https://relishapp.com/rspec/rspec-mocks/v/3-5/docs/basics/expecting-messages)
+
